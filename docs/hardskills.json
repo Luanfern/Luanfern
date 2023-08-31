@@ -43,5 +43,50 @@
         "name": "Kotlin",
         "learning": true,
         "logo": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e3/f27630d13511e88dd241e68ded0cea/K_logo_800x800.png?auto=format%2Ccompress&dpr=1"
-    }
+    },
+    {
+        "name": "POO",
+        "learning": true,
+        "logo": "https://fernandofranzini.files.wordpress.com/2017/05/d904cd50a425d9815a5c6abe97a8b89c.jpg"
+    },
+    {
+        "name": "Design Pattern",
+        "learning": true,
+        "logo": "https://programadoresdepre.com.br/wp-content/uploads/2021/10/Design-Patterns.jpg.webp"
+    },
+    {
+        "name": "Estrutura de Dados",
+        "learning": true,
+        "logo": "https://cdn-icons-png.flaticon.com/512/8637/8637656.png"
+    },
+    {
+        "name": "Solid",
+        "learning": true,
+        "logo": "https://helicaltech.com/wp-content/uploads/2023/06/Solid-Principles-In-Python-Programming-1.png"
+    },
+    {
+        "name": "Clean Archteture",
+        "learning": true,
+        "logo": "https://miro.medium.com/v2/resize:fit:800/1*oV_UWJHwVuQuOXh9kVllQw.png"
+    },
+    {
+        "name": "Conceitos e Ecossistema Mobile",
+        "learning": true,
+        "logo": "https://cdn.fullestop.com/images/react-native-image.svg"
+    },
+    {
+        "name": "Conceitos de Backend",
+        "learning": true,
+        "logo": "https://cdn-icons-png.flaticon.com/512/888/888936.png"
+    },
+    {
+        "name": "IA - Inteligência Artificial",
+        "learning": true,
+        "logo": "https://www.crushpixel.com/big-static19/preview4/artificial-intelligence-ai-scheme-color-3612216.jpg"
+    },
+    {
+        "name": "Cloud - Aws e Redes",
+        "learning": true,
+        "logo": "https://cdn-icons-png.flaticon.com/512/4215/4215831.png"
+    },
 ]
