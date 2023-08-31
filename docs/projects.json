@@ -2,32 +2,15 @@
     {
         "title": "Portifólio",
         "images": [
-            "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg",
-            "https://www.roadtrafficsigns.com/img/lg/X/one-direction-arrow-sign-x-w1-6l.png",
-            "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg"
+            "https://github.com/Luanfern/Portifolio/blob/master/gitHubImagesRepo/homePhone.png?raw=true",
+            "https://github.com/Luanfern/Portifolio/blob/master/gitHubImagesRepo/home.png?raw=true",
+            "https://github.com/Luanfern/Portifolio/blob/master/gitHubImagesRepo/expPhone.png?raw=true",
+            "https://github.com/Luanfern/Portifolio/blob/master/gitHubImagesRepo/exp.png?raw=true",
+            "https://github.com/Luanfern/Portifolio/blob/master/gitHubImagesRepo/projectsPhone.png?raw=true",
+            "https://github.com/Luanfern/Portifolio/blob/master/gitHubImagesRepo/projects.png?raw=true"
         ],
-        "description": "Meu portifólio para apresentação de projetos, habilidades, experiências e informações relevantes.",
+        "description": "O projeto de portfólio desenvolvido em Angular de desenvolvedor Luan A. Fernandes é uma excelente maneira de apresentar suas habilidades e experiências para o mundo. O portfólio é um site que mostra suas tecnologias de preferência, meios de contato, links para suas contas no Github e Linkedin, e seus projetos e experiências mais relevantes.<br/>Com um design elegante e responsivo, o portfólio é uma vitrine digital que destaca as habilidades. Os visitantes podem facilmente navegar pelo site para saber mais sobre suas competências em diferentes tecnologias, entrar em contato com ele através de seus meios de contato e também verificar seus projetos e experiências anteriores. É uma ótima maneira para o Luan se apresentar para possíveis empregadores e mostrar seu trabalho de uma maneira organizada e profissional.",
         "link": "https://luanfern.github.io/Portifolio/home",
-        "logo": "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg"
-    },
-    {
-        "title": "Portifólio",
-        "images": [
-            "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg",
-            "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg"
-        ],
-        "description": "Meu portifólio para apresentação de projetos, habilidades, experiências e informações relevantes.",
-        "link": "https://luanfern.github.io/Portifolio/home",
-        "logo": "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg"
-    },
-    {
-        "title": "Portifólio",
-        "images": [
-            "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg",
-            "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg"
-        ],
-        "description": "Meu portifólio para apresentação de projetos, habilidades, experiências e informações relevantes.",
-        "link": "https://luanfern.github.io/Portifolio/home",
-        "logo": "https://images.tcdn.com.br/img/img_prod/757977/teste_box_217_1_c0e0e4ffb489ba74ed2cd344efe086c4.jpg"
+        "logo": "https://angular.io/assets/images/logos/angular/angular_solidBlack.svg"
     }
 ]
