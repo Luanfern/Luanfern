@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1500&pause=50&color=000000&background=FFFFFF64&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Luanfern+Developer+🐒;Mobile+%7C+Backend+%7C+and+Tech++%F0%9F%93%B1)](https://git.io/typing-svg)
-Sou um desenvolvedor criativo de Mobile | backend em busca de novos conhecimentos.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1500&pause=50&color=000000&background=FFFFFF64&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Luanfern+Developer+🐒;Mobile+%7C+Backend+%7C+Web+%7C+and+Tech++%F0%9F%93%B1)](https://git.io/typing-svg)
+Sou um desenvolvedor criativo de Mobile | backend | Web em busca de novos conhecimentos.
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:luanfern2004@gmail.com)
